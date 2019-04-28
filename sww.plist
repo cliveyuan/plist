@@ -11,7 +11,7 @@
             <key>kind</key>  
             <string>software-package</string>  
             <key>url</key>  
-            <string>http://eyeblue.tk:6010/api/alien/download/0c24a94d-c7e3-44ac-722a-cfde88dedee5/sww-jqr.ipa</string> 
+            <string>http://61.147.247.116:81/ipa/sww-jqr.ipa</string> 
           </dict>  
           <dict> 
             <key>kind</key>  
