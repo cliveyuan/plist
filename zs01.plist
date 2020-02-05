@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<plist version="1.0"> 
+  <dict> 
+    <key>items</key>  
+    <array> 
+      <dict> 
+        <key>assets</key>  
+        <array> 
+          <dict> 
+            <key>kind</key>  
+            <string>software-package</string>  
+            <key>url</key>  
+            <string>http://zs999.cc/ipa/zs01.ipa</string> 
+          </dict>  
+          <dict> 
+            <key>kind</key>  
+            <string>display-image</string>  
+            <key>needs-shine</key>  
+            <true/>  
+            <key>url</key>  
+            <string>https://www.logosc.cn/img/home/logosc-icon.png</string> 
+          </dict> 
+        </array>  
+        <key>metadata</key>  
+        <dict> 
+          <key>bundle-identifier</key>  
+          <string>com.mengxiang.shop</string>  
+          <key>bundle-version</key>  
+          <string>1.0</string>  
+          <key>kind</key>  
+          <string>software</string>  
+          <key>subtitle</key>  
+          <string>App Subtitle</string>  
+          <key>title</key>  
+          <string>战神1号</string> 
+        </dict> 
+      </dict> 
+    </array> 
+  </dict> 
+</plist>
